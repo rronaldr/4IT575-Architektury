@@ -3,8 +3,8 @@ Repozitář pro seminární práci pro předmět 4IT575 Softwarové Architektury
 
 ## Obsah
 - Zadání aplikace
-- Popis 1. architektury
-- Popis 2. architektury
+- Popis 1. architektury (microservices)
+- Popis 2. architektury 
 
 ## Zadání aplikace
 **Popis aplikace:**
@@ -16,3 +16,6 @@ Uživatelé: tisíce souběžných uživatelů, nárazy až 10 000 uživatelů z
 - umožnit souběžný nákup vstupenek
 - neprodat žádné místo více než jednou!
 - nakupující vidí přehled zbývajících míst
+
+### Autoři
+Jan Hála, Pavel Dohnal, 
