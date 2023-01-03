@@ -1,17 +1,17 @@
-# Title
+# Event Driver ADR
 
 ## Status
 
-What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.?
+Navrhnuta architektura řízená událostmi. 
 
 ## Context
 
-What is the issue that we're seeing that is motivating this decision or change?
+Potřebujeme vhodnou architekturu, které splňuje požadavky na aplikace ze zadání naši seminární práce – důležitá je především škálovatelnost, výkon a odolnost vůči chybám. Uživatelů muže být v jeden moment velké množství, pokud se budou prodávat lístky na populární koncert, a nesmí se stát, že by na jedno místo měli nárok dva uživatelé. Z toho důvod je důležitý i výkon, abychom mohli rychle obsloužit velké množství zákazníků. 
 
 ## Decision
 
-What is the change that we're proposing and/or doing?
+Navrhujeme využít událostmi řízenou architektury pro řešení aplikace ze zadání naší seminární práce z důvodu vysoké škálovatelnosti a výkonu aplikace spolu s o vysokou ochranou vůči chybám, což jsou charakteristiky zvolené architektury, které jsou vysoce žádané v řešené aplikaci. 
 
 ## Consequences
 
-What becomes easier or more difficult to do because of this change?
+Důsledkem bude využití moderní distribuované architektury pro řešení aplikace, která z velké míry splňuje požadavky aplikace. 
