@@ -17,5 +17,11 @@ Uživatelé: tisíce souběžných uživatelů, nárazy až 10 000 uživatelů z
 - neprodat žádné místo více než jednou!
 - nakupující vidí přehled zbývajících míst
 
+## Zvolené architektury
+- Microservices
+    - ADR o rozhodnutí
+- ?
+    - ADR o rozhodnutí
+
 ### Autoři
 Jan Hála, Pavel Dohnal, Martin Macko, Ronald Rebernigg
