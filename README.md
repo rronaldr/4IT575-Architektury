@@ -18,4 +18,4 @@ Uživatelé: tisíce souběžných uživatelů, nárazy až 10 000 uživatelů z
 - nakupující vidí přehled zbývajících míst
 
 ### Autoři
-Jan Hála, Pavel Dohnal, 
+Jan Hála, Pavel Dohnal, Martin Macko, Ronald Rebernigg
