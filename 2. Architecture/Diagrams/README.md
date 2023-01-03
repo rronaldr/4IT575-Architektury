@@ -1,0 +1,1 @@
+Zde popsat jednotlivé diagramy
