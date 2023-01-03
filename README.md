@@ -20,7 +20,7 @@ Uživatelé: tisíce souběžných uživatelů, nárazy až 10 000 uživatelů z
 ## Zvolené architektury
 - Microservices
     - ADR o rozhodnutí
-- ?
+- Event driven architecture
     - ADR o rozhodnutí
 
 ### Autoři
