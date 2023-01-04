@@ -1,8 +1,8 @@
-# Title
+# Microservice ADR
 
 ## Status
 
-Navrhované
+Navrhované.
 
 ## Context
 
