@@ -1,5 +1,5 @@
-# Dokumentace 2. architektury
+# Dokumentace 2. architektury (Event Driven Architecture)
 
 ## Struktura dokumentace
-- Architecture
-Zde pak vložit obsah složky (diagramy, ADR)
+- [ADR](/EDA/ADR/README.md)
+- [Diagramy](/EDA/Diagrams/README.md)
