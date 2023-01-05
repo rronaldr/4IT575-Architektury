@@ -3,7 +3,7 @@
 ![Use Case Diagram](/resources/diagrams/images/UseCaseDiagram.png)
 
 ## Popis aktérů a jejich Use Case
-V Use Case Diagramu se vyskytují 5 aktérů - Buyer, Provider, Technical Support, Front Desk a System.
+V Use Case Diagramu se vyskytují 5 aktérů - Buyer, Seller, Technical Support, Front Desk a System.
 
 ### Seller
 Seller, nebo-li prodejce, představuje poskytovatele služby prodeje vstupenek na koncerty. Používá k tomu platformu, kterou si pronajímá od naší společnosti, a pomocí ní prodává lístky zákazníkům. Seller mohou být například pořadatelé koncertů nebo prodejci vstupenek, kteří používají naši platformu k prodeji vstupenek na různé kulturní akce. Seller má zájem na úspěšném prodeji vstupenek a na spokojenosti zákazníků (Buyer), kteří si je od něj kupují.
