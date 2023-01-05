@@ -1,19 +1,13 @@
-# Backend aplikace pro prodej vstupenek
+# Backend aplikace pro prodej vstupenek v Javě
 
 ## Status
-
 Accepted.
 
 ## Context
-
-Aplikace pro prodej vstupenek bude spravovat databázi vstupenek a umožňovat souběžné nákupy vstupenek. Potřebujeme navrhnout backend aplikace, která bude schopna zpracovávat velké množství požadavků současně a zajistit, že žádné místo nebude prodáno více než jednou.
+Prodejní portál vstupenek potřebuje pružné řešení pro zpracování velkého počtu současných prodejů vstupenek a velkého počtu akcí. Portál bude nasazen na cloudu AWS a přístupný prostřednictvím SPA frontendu tisíci současnými uživateli, s nárazy až 10 000 uživateli za sekundu při vysoké poptávce. Aplikace musí podporovat současné nákupy vstupenek, zabraňovat opakovanému prodeji jakékoli jednotlivé vstupenky a umožňovat kupujícím zobrazovat volná místa.
 
 ## Decision
-
-Pro backend aplikace pro prodej vstupenek použijeme Apache Kafka pro řízení stavu a PostgreSQL pro ukládání informací.
+Backend pro prodejní portál vstupenek bude implementováno v Javě
 
 ## Consequences
-
-- Použití Apache Kafka umožní asynchronní zpracování požadavků a schopnost zpracovávat velké množství požadavků současně.
-- Použití PostgreSQL s podporou transakcí umožní spojit více operací s daty do jedné logické jednotky a zajistit, že žádné místo nebude prodáno více než jednou.
-- Obě technologie jsou široce používané a dobře dokumentované, což by mělo usnadnit vývoj a údržbu aplikace.
+Java je oblíbený, široce používaný programovací jazyk s velkou komunitou vývojářů a komplexní dokumentací. Má dobrou podporu pro běh na cloudu a integraci s AWS službami, jako jsou S3, DynamoDB a Lambda. Má také silnou podporu pro součinnost, což je důležité pro zpracování velkého objemu požadavků v architektuře založené na událostech, a dobrou podporu pro REST API. V neposlední řadě, může existovat větší počet dostupných vývojářů se zkušenostmi v Javě, což usnadňuje hledání a najímání členů týmu s potřebnými dovednostmi.
