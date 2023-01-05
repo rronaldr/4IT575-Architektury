@@ -1,7 +1,3 @@
 # Diagram nasazení
 
-![Deployment diagram](/resources/diagrams/images/deployment.png)
-
-## Popis jednotlivých částí
-
-### Část 1
+![Deployment diagram](/resources/diagrams/deployment.png)
