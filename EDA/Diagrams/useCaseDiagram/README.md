@@ -18,4 +18,4 @@ Front desk je částí prodejního systému, která může sloužit jako kanál 
 System je aktér, který je součástí prodejního systému a slouží k automatickému posílání notifikací kupujícím a organizaci pořádající koncerty. Systém může být navržen tak, aby automaticky odesílal notifikace o nových koncertech, které jsou k dispozici ke koupi, a notifikace o rezervacích, které byly úspěšně vytvořeny a potvrzeny. Notifikace mohou být odesílány prostřednictvím push upozornění, nebo dalších kanálů v závislosti na možnostech provozovatele.
 
 ### Technical Support
-Aktér Technical Support představuje naši společnost. Existuje pro případ, že by se naskytla potřeba správy samotného systému nad úroveň Providera.
+Aktér Technical Support představuje naši společnost. Existuje pro případ, že by se naskytla potřeba správy samotného systému nad úroveň Sellera.
