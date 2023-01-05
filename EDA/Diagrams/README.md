@@ -2,5 +2,5 @@
 
 ## Obsah
 - [Diagram nasazení](/EDA/Diagrams/deployment/README.md)
-- [Diagram komponent](/EDA/Diagrams/useCaseDiagram/README.md)
-- [Use Case]()
+- [Diagram komponent]()
+- [Use Case Diagram](/EDA/Diagrams/useCaseDiagram/README.md)
