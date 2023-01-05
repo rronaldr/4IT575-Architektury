@@ -1,6 +1,6 @@
-# Diagram nasazení
+# Diagram komponent
 
-![Deployment diagram](/resources/diagrams/component.png)
+![Component diagram](/resources/diagrams/component.png)
 
 ## Popis diagramu
 Diagram komponent se skládá z dvou hlavní komponent - frontendu a AWS, přičemž ke komunikaci dochází přes API rozhraní.
