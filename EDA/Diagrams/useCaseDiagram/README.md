@@ -1,4 +1,4 @@
-# Diagram nasazení
+# Use Case Diagram
 
 ![Use Case Diagram](/resources/diagrams/images/UseCaseDiagram.png)
 
