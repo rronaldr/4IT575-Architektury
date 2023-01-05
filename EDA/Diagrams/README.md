@@ -2,6 +2,6 @@
 
 ## Obsah
 - [Diagram nasazení](/EDA/Diagrams/deployment/README.md)
-- [Diagram komponent]()
-- [Sekvenční diagram](/EDA/Diagrams/sequence/README.md)
-- [Use Case]()
+- [Diagram komponent](/EDA/Diagrams/component/README.md)
+- [Use Case Diagram](/EDA/Diagrams/useCaseDiagram/README.md)
+- [Sekvenční diagram rezervace](/EDA/Diagrams/sequence/README.md)
